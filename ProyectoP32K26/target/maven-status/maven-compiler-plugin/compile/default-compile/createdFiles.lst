@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vista\MdiSeguridad$14.class
 Controlador\clsSeguridad.class
 Vista\frmLogin$4.class
@@ -39,3 +40,9 @@ Controlador\clsBitacora.class
 Vista\MdiSeguridad$2.class
 Controlador\clsUsuarioConectado.class
 Vista\frmMantenimientoUsuario.class
+=======
+Modelo\AplicacionesDAO.class
+Modelo\PerfilDAO.class
+Controlador\Perfil.class
+Controlador\Aplicaciones.class
+>>>>>>> 164085cc79ceac2e001b17444d5f99043c898ae2

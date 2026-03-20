@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\clsBitacora.java
 C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\clsSeguridad.java
 C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\clsUsuario.java
@@ -8,3 +9,32 @@ C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\Proyec
 C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\frmLogin.java
 C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\frmMantenimientoUsuario.java
 C:\Users\Soporte\Documents\2.Profesional\Umg\didactica2k26\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\MdiSeguridad.java
+=======
+<<<<<<< HEAD
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\BitacoraDAO.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\frmPerfiles.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\AplicacionesDAO.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\Formusuario.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\MantenimientoBitacora.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\AsignacionPerfilUsuario.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\AplicacionesForm.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\Usuario.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\Principal_AsignacionAplicacionPerfil.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\UsuarioDAO.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\MantenimientoAsignacionPerfilUsuario.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\AsignacionAplicacionUsuarioVista.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\AsignacionAplicacionUsuario.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\Asignacion_Aplicacion_Perfil.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\AsignacionAplicacionUsuarioDAO.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\Aplicaciones.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\Conexion.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\Asignacion_Aplicacion_PerfilDAO.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\Perfil.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\PrincipalAsignacionAplicacionUsuario.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Controlador\Bitacora.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\AsignacionPerfilUsuarioDAO.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Vista\MdiSeguridad.java
+C:\Users\50240\Documents\Proyectop32k26\ProyectoP32K26\src\main\java\Modelo\PerfilDAO.java
+=======
+>>>>>>> upstream/main
+>>>>>>> 164085cc79ceac2e001b17444d5f99043c898ae2
