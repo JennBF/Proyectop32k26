@@ -1,3 +1,4 @@
+//Astrid modificación de fecha a String
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -6,21 +7,21 @@ package Controlador;
 
 import java.time.LocalDateTime;
 
-public class Bitacora {
+public class clsBitacora {
     private int Bitcodigo;
     private int Usucodigo;
     private int Aplcodigo;
-    private LocalDateTime Bitfecha;
+    private String Bitfecha; //cambiar fecha a string
     private String Bitip;
     private String Bitequipo;
     private String Bitaccion;
 
     // Constructor vacío
-    public Bitacora() {
+    public clsBitacora() {
     }
 
     // Constructor con parámetros
-    public Bitacora(int Usucodigo, int Aplcodigo, LocalDateTime Bitfecha,String Bitip, String Bitequipo, String Bitaccion) {
+    public clsBitacora(int Usucodigo, int Aplcodigo, String Bitfecha,String Bitip, String Bitequipo, String Bitaccion) {
         this.Usucodigo = Usucodigo;
         this.Aplcodigo = Aplcodigo;
         this.Bitfecha  = Bitfecha;
@@ -39,9 +40,9 @@ public class Bitacora {
     public int getAplcodigo() { return Aplcodigo; }
     public void setAplcodigo(int Aplcodigo) { this.Aplcodigo = Aplcodigo; }
 
-    public LocalDateTime getBitfecha() { return Bitfecha; }
-    public void setBitfecha(LocalDateTime Bitfecha) { this.Bitfecha = Bitfecha; }
-
+    public String getBitfecha() { return Bitfecha; }
+    public void setBitfecha(String Bitfecha) { this.Bitfecha = Bitfecha; }
+    
     public String getBitip() { return Bitip; }
     public void setBitip(String Bitip) { this.Bitip = Bitip; }
 
